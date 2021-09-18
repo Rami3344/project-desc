@@ -1,0 +1,4 @@
+My Project is a bout a center named "Freecom" that let peoples to learn alot of programs like "web development, video games creation, Ai " and much more .
+at the home page there is the navbar that you can navigate between the home and the cours page then you'll find a carousel that represent some images of the center.
+then we will find the about us section that gives you information about the center then the footer that have the contact us section.
+at the cours page you'll find the programs that you can learn at see the descreption of every program.
